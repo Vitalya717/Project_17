@@ -1,3 +1,5 @@
+package ru.netology.statistic;
+
 import lombok.Getter;
 
 public class Player {
